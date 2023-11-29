@@ -1,0 +1,34 @@
+* {
+  /* *{} is for the font for all pages linked to this */ 
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family:"Poppins", sans-serif
+  color: #ffffff;
+  padding: 0.8cm 1.2cm;
+  font-weight: 700;
+  border-radius: 0.4cm;
+}
+body {
+  /* this is the overall background of the page */ 
+  background-color: rgb(22, 135, 227);
+}
+.container {
+  font-size: 1em;
+  background-color: burlywood;
+  color: #ffffff;
+  padding: 0.8cm 1.2cm;
+  font-weight: 700;
+  border-radius: 0.4cm;
+  box-shadow: 0 1em 2em;
+}
+
+.add-freelancer-con button {
+  font-size: 1em;
+  background-color: black;
+  color: #ffffff;
+  padding: 0.8cm 1.2cm;
+  font-weight: 700;
+  border-radius: 0.4cm;
+  box-shadow: 0 1em 2em;
+}
